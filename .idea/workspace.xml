@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ccce3632-c346-4157-a76e-cce4d44de3bf" name="Changes" comment="Initial Commit">
-      <change afterPath="$PROJECT_DIR$/src/test/java/FlighFindTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/FlighFindTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/FlighFindTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +38,19 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="TestNG.FlighFindTest.searchFligh">
+    <configuration name="FlighFindTest.searchFligh" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="FlightFinderGitDemo" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FlighFindTest" />
+      <option name="METHOD_NAME" value="searchFligh" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FlighFindTest.verifyLangPage" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="FlightFinderGitDemo" />
       <option name="PACKAGE_NAME" value="" />
@@ -53,6 +65,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.FlighFindTest.searchFligh" />
         <item itemvalue="TestNG.FlighFindTest.verifyLangPage" />
       </list>
     </recent_temporary>
@@ -73,7 +86,14 @@
       <option name="project" value="LOCAL" />
       <updated>1715505413764</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Initial Commit">
+      <created>1715506714426</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1715506714426</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
